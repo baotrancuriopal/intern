@@ -14,11 +14,11 @@ function readTransactionsFromFile(filePath) {
   return parseJson(fileContents);
 }
 
-function parseJson(fileContents) {
+function parseJson(fileContents, invalidJsonMessage = 'The input file contains invalid JSON.') {
   try {
     return JSON.parse(fileContents);
   } catch {
-    throw new Error('The input file contains invalid JSON.');
+    throw new Error(invalidJsonMessage);
   }
 }
 
