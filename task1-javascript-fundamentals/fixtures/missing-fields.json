@@ -1,0 +1,5 @@
+[
+  { "amount": 120, "date": "2026-01-05" },
+  { "category": "food", "amount": "120", "date": "2026-01-06" },
+  { "category": "transport", "amount": 45, "date": "2026-02-30" }
+]

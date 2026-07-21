@@ -1,0 +1,9 @@
+[
+  { "category": "food", "amount": 120, "date": "2026-01-05" },
+  { "category": "food", "amount": 80, "date": "2026-01-20" },
+  { "category": "transport", "amount": 45, "date": "2026-01-14" },
+  { "category": "entertainment", "amount": 200, "date": "2026-02-03" },
+  { "category": "food", "amount": 60, "date": "2026-02-15" },
+  { "category": "utilities", "amount": 150, "date": "2026-02-23" },
+  { "category": "transport", "amount": 90, "date": "2026-03-01" }
+]
